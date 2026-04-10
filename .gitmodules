@@ -16,3 +16,6 @@
 [submodule "ai/ml/coursera-ml"]
 	path = ai/ml/coursera-ml
 	url = git@github.com:virtualguard101/coursera-ml.git
+[submodule "ai/dl/ForyoClassifierCNN"]
+	path = ai/dl/ForyoClassifierCNN
+	url = git@github.com:virtualguard101/ForyoClassifierCNN.git
