@@ -1,1 +1,18 @@
+# python generated files
 __pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# rust generated files
+target/
+Cargo.lock
+
+# virtual environments
+.venv
+
+# ide
+.vscode/
+.idea/
