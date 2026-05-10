@@ -13,3 +13,6 @@
 [submodule "cca/cs61c"]
 	path = cca/cs61c
 	url = git@github.com:virtualguard101/cs61c.git
+[submodule "network/netdiy"]
+	path = network/netdiy
+	url = git@github.com:virtualguard101/netdiy.git
